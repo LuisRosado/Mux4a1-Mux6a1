@@ -1,0 +1,58 @@
+C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP3.v {1 {vlog -work MUX61 -stats=none C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module OP3
+
+Top level modules:
+	OP3
+
+} {} {}} C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/Mux6a1.v {1 {vlog -work MUX61 -stats=none C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/Mux6a1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module UnidadLogica
+-- Compiling module mux6a1
+
+Top level modules:
+	UnidadLogica
+
+} {} {}} C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/TB_Mux6a1.v {1 {vlog -work MUX61 -stats=none C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/TB_Mux6a1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TB_Mux61
+
+Top level modules:
+	TB_Mux61
+
+} {} {}} C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP4.v {1 {vlog -work MUX61 -stats=none C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module OP4
+
+Top level modules:
+	OP4
+
+} {} {}} C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP5.v {1 {vlog -work MUX61 -stats=none C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP5.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module OP5
+
+Top level modules:
+	OP5
+
+} {} {}} C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP1.v {1 {vlog -work MUX61 -stats=none C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module OP1
+
+Top level modules:
+	OP1
+
+} {} {}} C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP6.v {1 {vlog -work MUX61 -stats=none C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP6.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module OP6
+
+Top level modules:
+	OP6
+
+} {} {}} C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP2.v {1 {vlog -work MUX61 -stats=none C:/ModelSim/Modeltech_pe_edu_10.4a/examples/Mux41/Mux6a1/OP2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module OP2
+
+Top level modules:
+	OP2
+
+} {} {}}
